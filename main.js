@@ -15823,25 +15823,6 @@ class BusinessResumeComponent {
             title: this.translate.instant('Resume'),
             profile: 'business-man',
         };
-        this.member = {
-            image: 'user-img-2.jpg',
-            logo: '',
-            designation: '',
-            age: '29',
-            dob: '01.07.1990',
-            residence: 'USA',
-            address: 'AVE 11, NEW YORK, USA',
-            email: 'INFO@EXAMPLE.COM',
-            phone: '(+01) 123 456 7890',
-            skype: 'ALEX.SMITH',
-            whatsapp: '',
-            about_me: 'Hi! My name is <span class="text-primary">Thomas Grady</span>. I am a Web Developer, and I\'m very passionate and dedicated to my work. With 20 years experience as a professional Web developer, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of the design process, from discussion and collaboration.',
-            intrests: 'Mangas, Jeux vidéos',
-            name: 'Thomas Grady',
-            study: 'UNIVERSITY OF CHICAGO',
-            highes_degree: 'MASTER',
-            profile: 'business-man',
-        };
         this.skills = [
             {
                 title: this.translate.instant('Problem Solving'),
